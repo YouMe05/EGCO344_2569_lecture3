@@ -6,4 +6,4 @@ Bash
 git checkout main
 git pull origin main
 2. Dev1 creates a branch update-readme.
-3. Dev 2 creates a branch chaos-readme.
+3. Dev 2 creates a branch chaos-readme.Do we need to do this?.
